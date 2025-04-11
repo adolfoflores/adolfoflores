@@ -13,7 +13,7 @@
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adolfoflores&locale=es_MX)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=adolfoflores&locale=es_MX)
 
 
 ![CANK Badge](https://img.shields.io/badge/CANK-INC-blue)
